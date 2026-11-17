@@ -1,0 +1,41 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+jupyter_runtime/
+
+# Gradio temporary files
+.gradio/
+
+# Dataset folders - keep locally, don't upload
+train/
+validation/
+test/
+data/
+
+# Quarantined images
+quarantine/
+
+# Environment and secret files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Older experimental model checkpoints
+models/best_model.pth
+models/tomato_validator_best.pth
+notebooks/best_model.pth
