@@ -185,8 +185,14 @@ Developed as a practical deep-learning and computer vision project using Python 
 *This project demonstrates the development, evaluation, and deployment of a two-stage deep-learning image classification system.*
 
 
+
+## Application Screenshots
+
+### 1. Application Interface
 ![Application Interface](Screenshots/app_interface.png)
 
+### 2. Healthy Tomato Prediction
 ![Healthy Tomato Prediction](Screenshots/healthy_prediction.png)
 
+### 3. Diseased Tomato Prediction
 ![Diseased Tomato Prediction](Screenshots/diseased_prediction.png)
